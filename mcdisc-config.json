@@ -1,0 +1,9 @@
+[
+    {
+        "id": "custom_song_1",
+        "name": "Ma Première Musique",
+        "file": "https://drive.google.com/uc?export=download&id=1RySbbsezBL1gLSeEp1ACN9j7CmL1MAFx",
+        "author": "Moi",
+        "length": 120
+    }
+]
